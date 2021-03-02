@@ -5,7 +5,7 @@ This mobile Application helps farmers to scan plants and detect diseases and pes
 
 # WEB SITE
 To manage queries there is a dedicated website built for agricultural department
-
+![](4.png?raw=true "")
 
 ## TECHNOLOGIES USED
 1. Flutter Mobile App
