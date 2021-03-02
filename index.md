@@ -18,8 +18,7 @@ Artificial Intelligence
 Due to lack of image datasets for native plants of Kerala we collected image dataset own our own
 The AI model is created using a technique called Transfer Learning using InceptionV3 neural network
 
-[](https://https://github.com/allwin-baby/Vaiga-Agri-Hack2021/main/4.png) and ![https://https://github.com/allwin-baby/Vaiga-Agri-Hack2021/main/4.png](src)
-```
+<img src="1.png" alt="hi" class="inline"/>
 
 
 ### Support or Contact
