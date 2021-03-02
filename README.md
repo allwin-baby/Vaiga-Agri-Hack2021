@@ -1,3 +1,3 @@
 # Vaiga-Agri-Hack2021
 An AI powered App for detection of plant diseases and give remedies to farmers
-[Intro.pdf](https://github.com/allwin-baby/Vaiga-Agri-Hack2021/blob/main/spicytech-converted.pdf)
+![](0.png?raw=true "")
