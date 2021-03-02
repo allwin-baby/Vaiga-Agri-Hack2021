@@ -32,9 +32,10 @@ The AI model is created using a technique called Transfer Learning using Incepti
 
 # Our Team
 ![team](https://user-images.githubusercontent.com/58629705/109700520-dd7b2980-7bb7-11eb-8d44-63d067e18df6.jpg)
-## Specieal Mention
+## Special Mention
 ### Jinto Philip
-![Capture](https://user-images.githubusercontent.com/58629705/109702945-e7eaf280-7bba-11eb-8449-18e36bc61dd6.PNG)
+![19PMC332IJJmoQ3D3ayGuFaq](https://user-images.githubusercontent.com/58629705/109703654-bb83a600-7bbb-11eb-922a-ce151a0928da.jpg)
+
 ### Christo and Kevin
 ![christo](https://user-images.githubusercontent.com/58629705/109703348-5e87f000-7bbb-11eb-9d49-3765ef689052.PNG)
 
