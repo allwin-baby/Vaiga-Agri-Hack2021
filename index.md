@@ -18,10 +18,11 @@ To manage queries there is a dedicated website built for agricultural department
 
 ## TECHNOLOGIES USED
 1. Flutter Mobile App
-2. Nodejs Website
+2. Nodejs for Website Backend
 3. TensorFlow and keras for Machine Learning
-4. Heroku and Fire base for deployment
-5. Flask for API
+4. Heroku for deployment
+5. Firebase for storage
+6. Flask for ML API
 
 ## Artificial Intelligence
 Due to lack of image datasets for native plants of Kerala we collected image dataset own our own
