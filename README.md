@@ -13,3 +13,5 @@ An AI powered App for detection of plant diseases and give remedies to farmers
 ![](6.png?raw=true "")
 ![](8.png?raw=true "")
 
+[![CLICK HERE TO GO TO YOUTUBE VIDEO](https://img.youtube.com/vi/P6J6GEZh9_c/0.jpg)](https://www.youtube.com/watch?v=P6J6GEZh9_c)
+
