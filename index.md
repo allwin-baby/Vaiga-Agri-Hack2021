@@ -5,7 +5,6 @@ This mobile Application helps farmers to scan plants and detect diseases and pes
 
 # WEB SITE
 To manage queries there is a dedicated website built for agricultural department
-![](4.png?raw=true "")
 
 ## TECHNOLOGIES USED
 1. Flutter Mobile App
@@ -18,7 +17,7 @@ Artificial Intelligence
 Due to lack of image datasets for native plants of Kerala we collected image dataset own our own
 The AI model is created using a technique called Transfer Learning using InceptionV3 neural network
 
-<img src="./1.png" alt="hi" class="inline"/>
+![image info](6.png)
 
 
 ### Support or Contact
