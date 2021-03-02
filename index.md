@@ -1,4 +1,6 @@
 # VAIGA AGRI HACK 2021 TITLE WINNING MOBILE APPLICATION
+## About Vaiga Agri Hackathon 
+VAIGA Agri Hack 2021 is Kerala’s largest agricultural hackathon conducted by the Government of Kerala Agricultural department, as a part of the VAIGA Agricultural Fest, participating school-college students, startups, individuals, farmers, innovationists and general public.
 ## Plant Disease Detection Mobile Application By Team  SPICYTECH
 ![team](https://user-images.githubusercontent.com/58629705/109700608-fd125200-7bb7-11eb-9347-d93d6ac1666a.PNG)
 
