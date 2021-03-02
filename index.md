@@ -18,7 +18,7 @@ Artificial Intelligence
 Due to lack of image datasets for native plants of Kerala we collected image dataset own our own
 The AI model is created using a technique called Transfer Learning using InceptionV3 neural network
 
-<img src="1.png" alt="hi" class="inline"/>
+<img src="./1.png" alt="hi" class="inline"/>
 
 
 ### Support or Contact
