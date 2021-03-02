@@ -1,33 +1,25 @@
-## VAIGA AGRI HACK 2021
-### SPICY TECH PLANT DISEASE DETECTION APPLICATION
+## VAIGA AGRI HACK 2021 Title wining mobile application
+### PLANT DISEASE DETECTION MOBILE APPLICATION BY TEAM SPICYTECH
+#MOBILE APP
+This mobile Application helps farmers to scan plants and detect diseases and pest using Machine Learning. This Ai powered app instantly gives remedies and medicines for detected disease. If farmer have any concern, they can acknowledge agriculture officers through this app.
+
+#WEB SITE
+To manage queries there is a dedicated website built for agricultural department
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# TECHNOLOGIES USED
+1. Flutter Mobile App
+2. Nodejs Website
+3. TensorFlow and keras for Machine Learning
+4. Heroku and Fire base for deployment
+5. Flask for API
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+Artificial Intelligence
+Due to lack of image datasets for native plants of Kerala we collected image dataset own our own
+The AI model is created using a technique called Transfer Learning using InceptionV3 neural network
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/allwin-baby/Vaiga-Agri-Hack2021/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
