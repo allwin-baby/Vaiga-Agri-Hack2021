@@ -29,6 +29,7 @@ To manage queries there is a dedicated website built for agricultural department
 ## Artificial Intelligence
 Due to lack of image datasets for native plants of Kerala we collected image-dataset on our own.
 The AI model is created using a technique called Transfer Learning by InceptionV3 neural network.
+
 ![hand](https://user-images.githubusercontent.com/58629705/109700427-b91f4d00-7bb7-11eb-9b38-dce44b2c586d.PNG)
 ![ml](https://user-images.githubusercontent.com/58629705/109700942-6d20d800-7bb8-11eb-9a67-7f0764589ac3.PNG)
 
