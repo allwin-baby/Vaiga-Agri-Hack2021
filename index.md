@@ -35,7 +35,7 @@ The AI model is created using a technique called Transfer Learning by InceptionV
 
 # Our Team
 ![team](https://user-images.githubusercontent.com/58629705/109700520-dd7b2980-7bb7-11eb-8d44-63d067e18df6.jpg)
-## Special Mention
+## Special Thanks
 ### Jinto Philip
 ![19PMC332IJJmoQ3D3ayGuFaq](https://user-images.githubusercontent.com/58629705/109703654-bb83a600-7bbb-11eb-922a-ce151a0928da.jpg)
 
